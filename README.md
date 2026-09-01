@@ -1,18 +1,20 @@
-# Adrianov Rrubocop
+# adrianov/rrubocop
 
-## How do I install these formulae?
+Homebrew tap for [rrubocop](https://github.com/adrianov/rrubocop) — Rust RuboCop drop-in for Ruby.
 
-`brew install adrianov/rrubocop/<formula>`
+## Install
 
-Or `brew tap adrianov/rrubocop` and then `brew install <formula>`.
+```sh
+brew install adrianov/rrubocop/rrubocop
+```
 
-Or, in a `brew bundle` `Brewfile`:
+Or:
 
-```ruby
-tap "adrianov/rrubocop"
-brew "<formula>"
+```sh
+brew tap adrianov/rrubocop
+brew install rrubocop
 ```
 
 ## Documentation
 
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+`brew help`, `man brew`, or [Homebrew docs](https://docs.brew.sh).
