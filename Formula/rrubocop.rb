@@ -1,8 +1,8 @@
 class Rrubocop < Formula
   desc "Fast RuboCop-compatible Ruby linter in Rust"
   homepage "https://github.com/adrianov/rrubocop"
-  url "https://github.com/adrianov/rrubocop/archive/refs/tags/v0.7.0.tar.gz"
-  sha256 "e2a80c8447acb086aafbab2041babf64ca861bbd9b87c53090401b6eae817b0e"
+  url "https://github.com/adrianov/rrubocop/archive/refs/tags/v0.7.1.tar.gz"
+  sha256 "a7fdbe76a9862d9132659fb0342c8876b279a7b091bf03e4fb1a034e536ed223"
   license "GPL-3.0-or-later"
   head "https://github.com/adrianov/rrubocop.git", branch: "main"
 
